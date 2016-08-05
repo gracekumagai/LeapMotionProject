@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/LeapProject/Scenes/PinchingDesktop.unity
+  isLoaded: 1
+  isActive: 1

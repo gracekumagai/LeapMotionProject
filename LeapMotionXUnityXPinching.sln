@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapMotionXUnityXPinching.CSharp", "LeapMotionXUnityXPinching.CSharp.csproj", "{FDF1CE9D-797D-4DC2-4946-8F32C1288069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapMotionXUnityXPinching.CSharp.Editor", "LeapMotionXUnityXPinching.CSharp.Editor.csproj", "{9685A539-170D-DEFF-E669-32ABF625D376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF1CE9D-797D-4DC2-4946-8F32C1288069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF1CE9D-797D-4DC2-4946-8F32C1288069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF1CE9D-797D-4DC2-4946-8F32C1288069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF1CE9D-797D-4DC2-4946-8F32C1288069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9685A539-170D-DEFF-E669-32ABF625D376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9685A539-170D-DEFF-E669-32ABF625D376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9685A539-170D-DEFF-E669-32ABF625D376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9685A539-170D-DEFF-E669-32ABF625D376}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
